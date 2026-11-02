@@ -64,7 +64,7 @@ No problem! This a chance to learn another useful `git` command!
 ## Plagiarism
 
 Take a moment to refamiliarize yourself with the
-[Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md).
+[Plagiarism policy](https://github.com/ga-curriculum/getting-started/blob/main/plagiarism.md).
 Plagiarized work will not be accepted.
 
 ## [License](LICENSE)
